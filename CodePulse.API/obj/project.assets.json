@@ -3347,11 +3347,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\for_jinghao_personel\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+      "projectUniqueName": "C:\\for_jinghao_personel\\CodePulse\\API\\codepulse\\CodePulse.API\\CodePulse.API.csproj",
       "projectName": "CodePulse.API",
-      "projectPath": "C:\\for_jinghao_personel\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\CodePulse.API.csproj",
+      "projectPath": "C:\\for_jinghao_personel\\CodePulse\\API\\codepulse\\CodePulse.API\\CodePulse.API.csproj",
       "packagesPath": "C:\\Users\\jinghao.yong\\.nuget\\packages\\",
-      "outputPath": "C:\\for_jinghao_personel\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\obj\\",
+      "outputPath": "C:\\for_jinghao_personel\\CodePulse\\API\\codepulse\\CodePulse.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jinghao.yong\\AppData\\Roaming\\NuGet\\NuGet.Config",
