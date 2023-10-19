@@ -16,6 +16,8 @@ namespace CodePulse.API.Controllers
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
+
+            // yeah , do something !
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
