@@ -21,5 +21,10 @@ namespace CodePulse.API.Repositories.Implementation
 
             return category;
         }
+
+        public async Task<IEnumerable<Category>> GetAllAsync()
+        {
+            return await dbContext.Categories.ToListAsync();
+        }
     }
 }
