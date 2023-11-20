@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\for_jinghao_personel\\CodePulse\\API\\codepulse\\CodePulse.API\\CodePulse.API.csproj": {}
+    "C:\\forJH\\codepulse_webapi_backend\\CodePulse.API\\CodePulse.API.csproj": {}
   },
   "projects": {
-    "C:\\for_jinghao_personel\\CodePulse\\API\\codepulse\\CodePulse.API\\CodePulse.API.csproj": {
+    "C:\\forJH\\codepulse_webapi_backend\\CodePulse.API\\CodePulse.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\for_jinghao_personel\\CodePulse\\API\\codepulse\\CodePulse.API\\CodePulse.API.csproj",
+        "projectUniqueName": "C:\\forJH\\codepulse_webapi_backend\\CodePulse.API\\CodePulse.API.csproj",
         "projectName": "CodePulse.API",
-        "projectPath": "C:\\for_jinghao_personel\\CodePulse\\API\\codepulse\\CodePulse.API\\CodePulse.API.csproj",
+        "projectPath": "C:\\forJH\\codepulse_webapi_backend\\CodePulse.API\\CodePulse.API.csproj",
         "packagesPath": "C:\\Users\\jinghao.yong\\.nuget\\packages\\",
-        "outputPath": "C:\\for_jinghao_personel\\CodePulse\\API\\codepulse\\CodePulse.API\\obj\\",
+        "outputPath": "C:\\forJH\\codepulse_webapi_backend\\CodePulse.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jinghao.yong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

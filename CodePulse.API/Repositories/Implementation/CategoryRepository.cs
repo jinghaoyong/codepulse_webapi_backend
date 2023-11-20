@@ -11,7 +11,7 @@ namespace CodePulse.API.Repositories.Implementation
 
         public CategoryRepository(ApplicationDbContext dbContext)
         {
-            this.dbContext = dbContext; 
+            this.dbContext = dbContext;
         }
         public async Task<Category> CreateAsync(Category category)
         {
@@ -25,6 +25,11 @@ namespace CodePulse.API.Repositories.Implementation
         public async Task<IEnumerable<Category>> GetAllAsync()
         {
             return await dbContext.Categories.ToListAsync();
+        }
+
+        public async Task<Category?> GetById(Guid id)
+        {
+           return await dbContext.Categories.FirstOrDefaultAsync(x => x.Id == id);
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VbkxQuzAbUoFRSH3c9niOvOtZEvAKFvXROuLvTXYDBb11nsMCsyeMIAabB5IHHBULkVB/UAefxLO7iw+/KlTOQ==",
+  "dgSpecHash": "SPAR20SGEf3SOmlmjBKObFOtcKdqqocrNyKBNaMZcrHLE5kxKYBsobu3avU+EVkRJPFsYAsaFC82Aefwpsw0sA==",
   "success": true,
-  "projectFilePath": "C:\\for_jinghao_personel\\CodePulse\\API\\codepulse\\CodePulse.API\\CodePulse.API.csproj",
+  "projectFilePath": "C:\\forJH\\codepulse_webapi_backend\\CodePulse.API\\CodePulse.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jinghao.yong\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\jinghao.yong\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
