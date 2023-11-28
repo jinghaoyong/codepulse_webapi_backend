@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SPAR20SGEf3SOmlmjBKObFOtcKdqqocrNyKBNaMZcrHLE5kxKYBsobu3avU+EVkRJPFsYAsaFC82Aefwpsw0sA==",
+  "dgSpecHash": "FEfAfYBCgabHhDy/KoZSyf1vQKxA0JnIGZcqB3byKH5xD+P/TnHIo/wPFjwPhJ5kuevjOOLa3OZug9CSR8TDDw==",
   "success": true,
   "projectFilePath": "C:\\forJH\\codepulse_webapi_backend\\CodePulse.API\\CodePulse.API.csproj",
   "expectedPackageFiles": [
@@ -77,7 +77,7 @@
       "code": "NU1803",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.0.87:5000/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://pcomssb.zoommapps.com:8624/nuget/PCOMSSB-Nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
     }
   ]
 }
